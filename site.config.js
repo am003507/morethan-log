@@ -3,23 +3,23 @@ const CONFIG = {
   profile: {
     name: "morethanmin",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "backend developer",
+    bio: "test",
+    email: "am003507@gmail.com",
+    linkedin: "",
+    github: "https://github.com/am003507/morethan-log",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Onigiri`,
+      href: "https://github.com/am003507/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Onigiri log",
+    description: "Onigiri",
     theme: "light", // ['light', 'dark', 'auto']
   },
 
