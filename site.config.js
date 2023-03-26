@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Onigiri",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "test",
+    bio: "Onigiri 블로그 입니다.",
     email: "am003507@gmail.com",
     linkedin: "",
-    github: "https://github.com/am003507/morethan-log",
+    github: "am003507",
     instagram: "",
   },
   projects: [
